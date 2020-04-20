@@ -1,1 +1,1 @@
-web: gunicorn demo.wgsi --log-file -
+web: gunicorn demo.wgsi
